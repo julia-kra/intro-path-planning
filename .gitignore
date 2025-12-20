@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python virtual environments
+venv/
+venv310/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
